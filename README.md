@@ -23,8 +23,19 @@ I am Vien, <b>Frontend Engineer</b> at Vietnamese Professional Network
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
+<br/>
+
 ---
+<summary>:zap: Github Stats</summary>
+<img align = 'center' alt="Vien Klett's Github Stat" src="https://github-readme-stats-vchau254.vercel.app/api?username=vchau254&show_icons=true&theme=radical&hide=stars" />
+
+---
+<br/>
+<summary>:zap: Most Used Language</summary>
+
+<img align='center' src="https://github-readme-stats-vchau254.vercel.app/api/top-langs/?username=vchau254" />
+
+
 
 <!---
 vchau254/vchau254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
