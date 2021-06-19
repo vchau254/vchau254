@@ -5,7 +5,7 @@ I am Vien, <b>Frontend Engineer</b> at Vietnamese Professional Network
 - 📝 Check my resume out here: [Vien's Resume](https://docs.google.com/document/d/1ATdLiC9I8LdgrmJhemPs_GCMK7_5H0rL4Qs04ZZFzh0/edit?usp=sharing)
 - 💬 Message me here: [Linkedin](https://www.linkedin.com/in/vienklett/)
 - 📫 Reach me via email: [vienklett@gmail.com](vienklett@gmail.com)
-- 📲 Call Me here: (215) 667-9568
+
 
 ---
 ### Languages and Tools:
